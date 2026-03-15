@@ -1,4 +1,3 @@
-Overview
 This project demonstrates how recommendation features used in social networks can be implemented using Python.
 
 It includes implementations for:
